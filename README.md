@@ -48,7 +48,6 @@ Projet académique réalisé en équipe dans le cadre de la formation en Data Sc
 
 le rapport :
 Le rapport du projet présente les différentes étapes de réalisation, les technologies utilisées ainsi que les résultats obtenus.
-[https://github.com/stebbah784-cmyk/BigData_MentalHealth_Platform/blob/main/Rapport%20de%20projet%20Big%20Data.pdf](rapport)
 
  Auteur:
 Houda Stebba
