@@ -40,7 +40,7 @@ Une interface interactive a été développée avec Streamlit afin de faciliter 
 
  Application en ligne :
 
-[https://bigdata-mentalhealth-platform-vfmexubxrz5w84jubuzuag.streamlit.app/](Application en ligne )
+[https://bigdata-mentalhealth-platform-vfmexubxrz5w84jubuzuag.streamlit.app/]
 
  Réalisation:
 
